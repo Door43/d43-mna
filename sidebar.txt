@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[mna:home|Door43 (mna)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-mna|d43-mna repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-mna/archive/master.zip|d43-mna.zip]]
+
+**Recent Changes**
+{{changes>ns = mna}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/mna|Ethnologue data]]
+
